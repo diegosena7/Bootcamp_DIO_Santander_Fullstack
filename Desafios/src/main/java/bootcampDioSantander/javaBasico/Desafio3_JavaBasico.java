@@ -1,9 +1,9 @@
-package bootcampDioSantander;
+package bootcampDioSantander.javaBasico;
 
 import java.util.Scanner;
 
 /*
- * Crie um programa que leia 6 valores. Você poderá receber valores negativos e/ou positivos como entrada,
+ * Crie um programa que leia 6 valores. Vocï¿½ poderï¿½ receber valores negativos e/ou positivos como entrada,
  * devendo desconsiderar os valores nulos. Em seguida, apresente a quantidade de valores positivos digitados.
  */
 public class Desafio3_JavaBasico {

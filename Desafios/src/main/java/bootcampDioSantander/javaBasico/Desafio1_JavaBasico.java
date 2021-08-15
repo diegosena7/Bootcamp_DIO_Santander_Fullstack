@@ -1,4 +1,4 @@
-package bootcampDioSantander;
+package bootcampDioSantander.javaBasico;
 
 import java.io.BufferedReader;
 import java.io.IOException;

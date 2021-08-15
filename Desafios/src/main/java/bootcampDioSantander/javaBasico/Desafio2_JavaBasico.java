@@ -1,9 +1,9 @@
-package bootcampDioSantander;
+package bootcampDioSantander.javaBasico;
 
 import java.util.Scanner;
 
 /*
- * Leia um valor inteiro X. Em seguida apresente os 6 valores ímpares consecutivos a partir de X, um valor por linha
+ * Leia um valor inteiro X. Em seguida apresente os 6 valores ï¿½mpares consecutivos a partir de X, um valor por linha
  * inclusive o X se for o caso.
  */
 
