@@ -1,0 +1,26 @@
+package bootcampDioSantander;
+
+import java.util.Scanner;
+
+/*
+ * Crie um programa que leia 6 valores. Você poderá receber valores negativos e/ou positivos como entrada,
+ * devendo desconsiderar os valores nulos. Em seguida, apresente a quantidade de valores positivos digitados.
+ */
+public class Desafio3_JavaBasico {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+        int x = sc.nextInt();
+        int cont = 0;
+
+        while (cont <  6) {
+        	if (x  %  2 == 1) {
+        		System.out.println(   x   );
+        		cont  ++;
+        	}
+    		x++;
+        }
+        sc.close();
+    }
+}
+

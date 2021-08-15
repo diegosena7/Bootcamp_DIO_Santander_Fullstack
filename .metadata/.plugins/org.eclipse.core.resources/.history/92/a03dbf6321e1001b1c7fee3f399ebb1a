@@ -1,0 +1,21 @@
+package bootcampDioSantander;
+
+import java.util.Scanner;
+
+public class Desafio2_JavaBasico {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+        int x = sc.nextInt();
+        int cont = 0;
+
+        while (cont <  6) {
+        	if (x  %  0 == 1) {
+        		System.out.println(   x   );
+        		cont  ++;
+        	}
+    		x++;
+        }
+        sc.close();
+    }
+}

@@ -1,0 +1,10 @@
+
+spring:
+
+  application:
+    name: product-catalog
+
+//conecta com o config server
+  cloud:
+    config:
+      uri: http://localhost:8888
